@@ -1,0 +1,8 @@
+gradio>=4.0.0
+pandas>=2.0.0
+numpy>=1.23.0
+langchain-community>=0.2.0
+langchain-openai>=0.2.0
+langchain-huggingface>=0.1.0
+faiss-cpu>=1.7.4; platform_system!='Windows'
+sentence-transformers>=2.6.1
